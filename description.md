@@ -1,0 +1,1 @@
+Esta práctica se compone de pequeños ejercicios que abarcan gradualmente los distintos temas del Paradigma Lógico para ir trabajando clase a clase.

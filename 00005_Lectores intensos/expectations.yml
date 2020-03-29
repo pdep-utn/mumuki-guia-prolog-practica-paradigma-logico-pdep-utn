@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: lectorIntenso
+  inspection: Uses:lecturaDensa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: lectorIntenso
+  inspection: Uses:leyo

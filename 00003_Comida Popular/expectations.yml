@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: masBarata
+  inspection: Uses:precio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: comidaPopular
+  inspection: Uses:leGusta

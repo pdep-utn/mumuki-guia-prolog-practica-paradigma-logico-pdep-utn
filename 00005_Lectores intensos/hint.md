@@ -1,0 +1,1 @@
+Tené en cuenta cuál es nivel de detalle que necesitás conocer de los distintos materiales de lectura para resolver este ejercicio. No te compliques más de lo estrictamente necesario :wink:
